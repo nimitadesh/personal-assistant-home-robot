@@ -1,4 +1,4 @@
-# What's Happening Project - Mobile and Ubiquitous Computing, Fall 23
+# Personal Home Assistant Robot
 ## Prerequisites
 1. Download Node.js LTS version from https://nodejs.org/en
     * Verify installation by typing `node -v` and `npm -v` in the terminal
@@ -7,18 +7,16 @@
 4. Install VS Code from https://code.visualstudio.com/
 ## Clone Repo
 1. Open a terminal window at the folder you want to save the repo in
-2. Clone the repo locally: `git clone https://github.gatech.edu/sbuckley31/muc-fa23-whats-happening.git`
-3. Checkout this branch: `git checkout nimita/set-up-emulator`
+2. Clone the repo locally: `git clone https://github.com/nimitadesh/personal-assistant-home-robot.git`
 ## Running the iOS Simulator
 ### First Time
-1. Open `muc-fa23-whats-happening` in VS Code.
+1. Open `personal-assistant-home-robot` in VS Code.
 2. Open a terminal or command prompt within VS Code.
-3. Change to the project directory: `cd WhatsHappeningFa23`
 4. Install dependencies: `npm install`
 5. Start the development server: `npm start`
 6. Select an iOS Simulator (any version of iPhone): `shift + i`, press Enter
 ### After First Time
-1. Open `muc-fa23-whats-happening` in VS Code.
+1. Open `personal-assistant-home-robot` in VS Code.
 2. Open a terminal or command prompt within VS Code.
 3. Run the project on the iOS Simulator: `npm run ios` 
 ### Expected Output
